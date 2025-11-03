@@ -1,10 +1,37 @@
-# Olá, me chamo Guilherme Oliveira!👋
-👨‍💻Sou estudante do curso de Sistemas De Informação.<br>🎯Buscando me tornar um profissional na área de desenvolvimento de software<br>☕Possuo experiência com **Java** e o framework **Spring**.<br>🗄️Atualmente, aprimorando meus conhecimentos em **SQL**.<br>✉️Email: g.nascimento1330@gmail.com<br> 
+# 🥷 Guilherme Oliveira
+Olá, meu nome é <b>Guilherme</b> e sou <b>desenvolvedor de software</b>, com ênfase no back-end. Tenho forte interesse em arquitetura de sistemas, código limpo e soluções de alto desempenho que entregam valor real ao usuário. Atualmente, sou bacharelando em <b>Sistemas de Informação</b> pelo IFS, e busco constantemente expandir meus conhecimentos. Apaixonado por tecnologia e inovação, tenho como objetivo me tornar um profissional completo, capaz de desenvolver soluções eficientes, escaláveis e de impacto real. <br>
 
-# 💻 Estou aprendendo:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guilherme0lv&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=guilherme0lv&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme0lv&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+   <p align="left">
+   <a href="https://www.linkedin.com/in/guilherme-0lv/">
+      <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn"
+           src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"/>
+   </a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gnascimento@gmail.com">
+      <img alt="Email" title="Envie-me um email"
+           src="https://custom-icon-badges.demolab.com/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&labelColor=B23121"/>
+   </a>
+   </p>
+
+# 👨🏽‍💻 Linguagens e Tecnologias:
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+<img align="left" alt="JUnit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<br/>
+
+# 📶 Status do meu Github:
+![](https://github-readme-stats.vercel.app/api?username=guilherme0lv&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=guilherme0lv&theme=blue_navy&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme0lv&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
