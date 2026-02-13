@@ -1,3 +1,8 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Guilherme0lv&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Guilherme0lv&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0lv&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 # 🥷 Guilherme Oliveira
 Olá, meu nome é <b>Guilherme</b> e sou <b>desenvolvedor de software</b>, com ênfase no back-end. Tenho forte interesse em arquitetura de sistemas, código limpo e soluções de alto desempenho que entregam valor real ao usuário. Atualmente, sou bacharelando em <b>Sistemas de Informação</b> pelo IFS, e busco constantemente expandir meus conhecimentos. Apaixonado por tecnologia e inovação, tenho como objetivo me tornar um profissional completo, capaz de desenvolver soluções eficientes, escaláveis e de impacto real. <br>
 
@@ -26,8 +31,3 @@ Olá, meu nome é <b>Guilherme</b> e sou <b>desenvolvedor de software</b>, com �
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <br/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guilherme0lv&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Guilherme0lv&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme0lv&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
